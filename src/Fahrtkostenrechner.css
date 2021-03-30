@@ -1,0 +1,53 @@
+.userinputstart{
+float: left;
+display: inline;
+margin-top: 4%;
+margin-left: 25%;
+
+}
+
+.userinputziel{
+    float: left;
+    display: inline;
+    margin-top: 4%;
+    margin-left: 2%;
+}
+
+.costKM{
+    float: left;
+    display: inline;
+    margin-top: 4%;
+    margin-left: 2%;
+}
+
+.userinputbutton{
+    float: left;
+    display: inline;
+    margin-top: 4.5%;
+    margin-left: 2%;
+}
+
+.leaflet-container{
+    margin-top: 3.5%;
+    margin-left: 10%;
+    width: 55%;
+    height: 60vh;
+
+}
+
+.userOut{
+    float: left;
+    margin-left: 70%;
+    margin-top: -31.5%;
+}
+
+.leaflet-container, .userOut{
+    display: inline-block;
+}
+
+.clearButton{
+    float: left;
+    display: inline;
+    margin-top: 4.5%;
+    margin-left: 1%;
+}

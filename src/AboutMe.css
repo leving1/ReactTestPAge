@@ -1,0 +1,35 @@
+.cardInt{
+    float: left;
+    display: inline;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+
+.auflistung{
+    margin-left: 4%;
+}
+
+
+.cardProj{
+    display: inline;
+    float: left;
+    margin-left: 58%;
+    margin-top: -43%;
+    width: 900px;
+}
+
+.cardEdu{
+    margin-left: 3%;
+    margin-top: 2%;
+    display: inline;
+    float: left;
+    width: 900px;
+}
+
+.cardCom{
+    display: inline;
+    float: left;
+    margin-left: 23%;
+    margin-top: -21%;
+    width: 900px;
+}

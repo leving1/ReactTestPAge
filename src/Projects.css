@@ -1,0 +1,16 @@
+.cardReactP{
+    float: left;
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 15%;
+    width: 1300px;
+}
+
+.cardAP{
+    float: left;
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 40%;
+    width: 1300px;
+    margin-bottom: 3%;
+}
