@@ -1,5 +1,5 @@
 {
-  "homepage": "http://leving1.github.io/myreactpage",
+  "homepage": "https://leving1.github.io/ReactTestPAge/",
   "name": "hello-world",
   "version": "0.1.0",
   "private": true,
@@ -43,7 +43,7 @@
     "worker-loader": "^3.0.8"
   },
   "scripts": {
-    "predeploy": "yarn run build",
+    "predeploy": "yarn build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
