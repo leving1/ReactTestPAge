@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ReactTestPAge/static/css/main.16610538.chunk.css",
+    "main.css": "/ReactTestPAge/static/css/main.2bc713c3.chunk.css",
     "main.js": "/ReactTestPAge/static/js/main.744fd0c2.chunk.js",
     "main.js.map": "/ReactTestPAge/static/js/main.744fd0c2.chunk.js.map",
     "runtime-main.js": "/ReactTestPAge/static/js/runtime-main.f9d66f7b.js",
@@ -10,7 +10,7 @@
     "static/js/2.e02313f6.chunk.js.map": "/ReactTestPAge/static/js/2.e02313f6.chunk.js.map",
     "index.html": "/ReactTestPAge/index.html",
     "static/css/2.2d19447c.chunk.css.map": "/ReactTestPAge/static/css/2.2d19447c.chunk.css.map",
-    "static/css/main.16610538.chunk.css.map": "/ReactTestPAge/static/css/main.16610538.chunk.css.map",
+    "static/css/main.2bc713c3.chunk.css.map": "/ReactTestPAge/static/css/main.2bc713c3.chunk.css.map",
     "static/js/2.e02313f6.chunk.js.LICENSE.txt": "/ReactTestPAge/static/js/2.e02313f6.chunk.js.LICENSE.txt",
     "static/media/Bewerbungsfoto.72cba332.png": "/ReactTestPAge/static/media/Bewerbungsfoto.72cba332.png",
     "static/media/Edu.6fec72e3.jpg": "/ReactTestPAge/static/media/Edu.6fec72e3.jpg",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.f9d66f7b.js",
     "static/css/2.2d19447c.chunk.css",
     "static/js/2.e02313f6.chunk.js",
-    "static/css/main.16610538.chunk.css",
+    "static/css/main.2bc713c3.chunk.css",
     "static/js/main.744fd0c2.chunk.js"
   ]
 }
