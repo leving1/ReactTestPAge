@@ -50,6 +50,11 @@ const useStylesCom = makeStyles({
   },
 });
 
+const openInNewTab = (url) => {
+  const newWindow = window.open(url, '_blank', 'noopener,noreferrer')
+  if (newWindow) newWindow.opener = null
+}
+
   export default function MediaCard() {
     const classesInt = useStylesInt();
     const classesEdu = useStylesEdu();
@@ -85,7 +90,7 @@ const useStylesCom = makeStyles({
           </CardContent>
         </CardActionArea>
         <CardActions>
-          <Button size="small" color="primary" onClick='https://www.linkedin.com/in/levin-gorgs/' >
+          <Button size="small" color="primary" onClick={() => openInNewTab('https://www.linkedin.com/in/levin-gorgs/')} >
             LinkedIn
           </Button>
         </CardActions>
